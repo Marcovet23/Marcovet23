@@ -49,3 +49,7 @@
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=default)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marcovet23&color=blue" alt="Marcovet23" />
+</p>
+
