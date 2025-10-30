@@ -39,8 +39,13 @@
 ---
 
 ### 📫 Contatti
-📩 Email: _aggiungi email (opzionale)_  
-🔗 LinkedIn: _link profilo_  
+
+<a href="https://www.linkedin.com/in/marco-vetrano-72600215a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kingmarco__23/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://wa.me/3458546921" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/gbfdgjjvc7c8qtqe32cpz30hv" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
+<br>
+
 📍 Italia
 
 ---
