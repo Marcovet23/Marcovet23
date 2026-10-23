@@ -17,6 +17,8 @@
 ✅ ETL  
 ✅ Microsoft Office 365
 
+Thanks for being a part of this channel and all your support! 💪 🙏
+
 ### 📫 Contatti
 
 <a href="https://www.linkedin.com/in/marco-vetrano-72600215a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
