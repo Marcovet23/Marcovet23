@@ -1,42 +1,21 @@
 # 👋 Ciao, sono Marco!
 
 💼 **Consulente Business Intelligence**  
-📊 Specializzato in **Power BI, PL/SQL, Data Modeling, ETL, Azure e SimCorp**
+📊 Specializzato in **Power BI**
 
 ---
 
 ### 🚀 Cosa faccio
 - Sviluppo dashboard e report interattivi in **Power BI**
 - Modellazione dati, misure DAX, ottimizzazione modelli semantici
-- ETL e trasformazioni con **Power Query**
-- SQL e **PL/SQL** su database Oracle
-- Processi e automazioni per KPI finanziari
 
 ---
 
 ### 🧰 Tecnologie & Skill
-✅ Power BI (Desktop, Service, RLS, DAX, Power Query)  
-✅ SQL / PL/SQL (Oracle, Procedure, Functions, Trigger, KPI, SimCorp)  
-✅ Azure (Data Factory, VM, Storage, Automation)  
-✅ Excel / VBA / ETL  
-✅ Git & GitHub
-
----
-
-### 🔥 Progetti e attività recenti
-- Automazione KPI finanziari con PL/SQL e tabelle SimCorp
-- Workflow n8n per chiamate API F1 e generazione report Excel
-- Dashboard Power BI con drill-through, parametri e filtri dinamici
-- Report builder collegato a modelli Power BI Service
-
----
-
-### 📈 Cosa mi piace imparare
-- Data Warehouse & Modelling
-- Automazioni cloud
-- Formula 1 + analisi telemetria con **FastF1**
-
----
+✅ Power BI  
+✅ SQL / PL/SQL  
+✅ ETL  
+✅ Microsoft Office 365
 
 ### 📫 Contatti
 
