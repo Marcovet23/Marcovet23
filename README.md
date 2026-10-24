@@ -2,20 +2,7 @@
 
 💼 **Consulente Business Intelligence**  
 📊 Specializzato in **Power BI**
-
----
-
-### 🚀 Cosa faccio
-- Sviluppo dashboard e report interattivi in **Power BI**
-- Modellazione dati, misure DAX, ottimizzazione modelli semantici
-
----
-
-### 🧰 Tecnologie & Skill
-✅ Power BI  
-✅ SQL / PL/SQL  
-✅ ETL  
-✅ Microsoft Office 365
+🚀 Sviluppo dashboard e report interattivi in **Power BI*
 
 Thanks for being a part of this channel and all your support! 💪 🙏
 
