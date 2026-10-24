@@ -28,6 +28,6 @@ Thanks for being a part of this channel and all your support! 💪 🙏
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gbfdgjjvc7c8qtqe32cpz30hv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gbfdgjjvc7c8qtqe32cpz30hv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false">
   </a>
 </p>
