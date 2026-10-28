@@ -3,7 +3,7 @@
 💼 **Consulente Business Intelligence**  
 📊 Specializzato in **Power BI**
 
-🚀 Sviluppo dashboard e report interattivi in **Power BI*
+🚀 Sviluppo dashboard e report interattivi in **Power BI**
 
 Thanks for being a part of this channel and all your support! 💪 🙏
 
